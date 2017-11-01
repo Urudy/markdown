@@ -3,7 +3,7 @@
 
 *두산*
 ## 제목 2
-[두산베어스](http://www.doosanbears.com/, "두산베어스")
+[두산베어스](http://www.doosanbears.com, "두산베어스 공식 홈페이지")
 ### 제목 3
 #### 제목 4
 ##### 제목 5
