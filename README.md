@@ -5,7 +5,7 @@
 ## 링크 연습
 [두산베어스](http://www.doosanbears.com/ , "두산베어스 공식 홈페이지")
 ### 참조 링크 연습
-[1]:(http://www.naver.com ,"네이버")
+[1]: http://www.naver.com ,"네이버"
 #### 제목 4
 ##### 제목 5
 ###### 제목 6
