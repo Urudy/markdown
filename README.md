@@ -18,5 +18,5 @@
 ![두산베어스 로고](http://cfile1.uf.tistory.com/image/237FAA4456288C762AFFF9)
 
 ###### 참조 이미지
-![두산베어스 로고]![1]
-![1]: http://i.maniadb.com/images/album/355/355273_1_f.jpg
+![두산베어스 로고][1]
+[1]: http://i.maniadb.com/images/album/355/355273_1_f.jpg
