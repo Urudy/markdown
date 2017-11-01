@@ -1,23 +1,7 @@
-# 굵은 글씨 & 기울임
-**두산**
+# 하마
 
-*두산*
-## 링크 연습
-[두산베어스](http://www.doosanbears.com/ "두산베어스 공식 홈페이지")
-### 참조 링크 연습
-[네이버][1]
+* 포유류 동물을 제외한 다른 동음이의어는 [하마](https://namu.wiki/w/%ED%95%98%EB%A7%88(%EB%8F%99%EC%9D%8C%EC%9D%B4%EC%9D%98%EC%96%B4))문서로.
 
-[1]: http://www.naver.com/ "네이버"
+## 1. 포유류
 
-#### 제목 4
-
-<http://www.naver.com/>
-
-##### 이미지
-
-![두산베어스 로고](http://cfile1.uf.tistory.com/image/237FAA4456288C762AFFF9)
-
-###### 참조 이미지
-![두산베어스 로고][1]
-
-[1]: http://i.maniadb.com/images/album/355/355273_1_f.jpg
+___
